@@ -1,0 +1,71 @@
+{
+    "title": "Neural capacity limits on the responses to memory interference during working memory in young and old adults",
+    "creators": [
+        {
+            "name": "Jason Steffener"
+        }
+    ],
+    "description": "Neural capacity limits on the responses to memory interference during working memory in young and old adults",
+    "version": "2020-08-20T19:23:58.721264",
+    "licenses": [
+        {
+            "name": "CC-By Attribution 4.0 International"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "aging"
+        },
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "fmri"
+        },
+        {
+            "value": "interference"
+        },
+        {
+            "value": "working memory"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 0.0,
+            "unit": {
+                "value": "Bytes"
+            },
+            "access": {
+                "landingPage": "https://osf.io/xwajn/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "0"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
